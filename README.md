@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salim</h1>
 <h3 align="center">A cybersecurity student from France</h3>
 
-- 🔭 I’m currently tinkering with [Vlang](https://vlang.io)
+- 🔭 I’m currently tinkering with Sony Ericsson phones
 
-- 📫 How to reach me **salim.dardouchi@ecole2600.com**
+- 📫 How to reach me **salim.dardouchi@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
